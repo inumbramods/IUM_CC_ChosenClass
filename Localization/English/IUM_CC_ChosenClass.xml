@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="h3690f017g9cb9g40b9gaef4g14af139cb1ed" version="1">Chosen</content>
+	<content contentuid="hbeb11cf9g2527g4577g9540g1e1baff25b42" version="1">You are the Chosen of both Eilistraee, the Dark Maiden, and Lurue, the Unicorn Queen. You blend the arts of the Sword Dancers of Eilistraee with the Druidic and Ranger traditions of Lurue's Silvermaids.</content>
+    <content contentuid="h66bf7743g30c6g4abfgbd8dg2a31ac844940" version="1">Eilistraee's Chosen</content>
+	<content contentuid="h11e3f199g2aa9g4b78g8b99ge4bbe6d6aa04" version="1">You are Eilistraee's Chosen. You gain a +6 Bonus to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; &lt;LSTag Tooltip="Abilities"&gt;Ability Scores&lt;/LSTag&gt;. When you roll a 1 on an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can reroll the die and must use the new roll. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SkillCheck"&gt;Skill Checks&lt;/LSTag&gt; for, and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in, &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt;, &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt;, &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;, &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt;, &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;, &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;, and &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt;.</content>
+    <content contentuid="h1d62e646g6c51g4400gb4b7g7128693319d1" version="1">Lurue's Chosen</content>
+	<content contentuid="hfff050b0gaf54g4563ga58cge7fbdfbc25f5" version="1">You are Lurue's Chosen. &lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;Wild Shape&lt;/LSTag&gt; no longer uses Wild Shape Charges, and you gain a +6 Bonus to your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; &lt;LSTag Tooltip="Abilities"&gt;Ability Scores&lt;/LSTag&gt;. When you roll a 1 on an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can reroll the die and must use the new roll. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SkillCheck"&gt;Skill Checks&lt;/LSTag&gt; for, and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in, &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;, &lt;LSTag Tooltip="AnimalHandling"&gt;Animal Handling&lt;/LSTag&gt;, &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt;, &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;, &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt;, &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
+	<content contentuid="h96fab58dg9e65g499eg86efg0635e7d1394c" version="1">Fighting Style: Bautha z'hin</content>
+	<content contentuid="hc065387cgf0c3g4adaga849g7e46adc383a4" version="1">You know the Drow fighting style of bautha z'hin. You can no longer be struck by &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, and you restore [1] of your &lt;LSTag Type="ActionResource" Tooltip="Movement"&gt;Movement&lt;/LSTag&gt; when attacking a foe in melee.</content>
+	<content contentuid="he6c9f1c0g6c23g49e2gb9cfga25018e81344" version="1">Fighting Style: Draa velve</content>
+	<content contentuid="h42e48c52gc1bdg4d14gbf2bg8da061152f2d" version="1">You are a practitioner of the challenging Drow fighting style known as draa velve. When dual-wielding, your off-hand melee weapon gains a +2 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and you add +[1] to your &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt;.</content>
+	<content contentuid="h356a4e6bg82fcg4b9dgb872g6d82a8bb6a5e" version="1">Fighting Style: Kyone veldrin</content>
+	<content contentuid="h96a9a78eg49c7g4f59gb39eg3ba5dc5b8042" version="1">You have mastered the Drow fighting style of kyone veldrin. You are no longer affected by &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blindness&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Target_Darkness"&gt;Darkness&lt;/LSTag&gt;.</content>
+	<content contentuid="hb7904c2ag13bdg422bga124g8e0e64dacd61" version="1">Fighting Style: Kyorlin plynn</content>
+	<content contentuid="h2e04f86eg9fd1g4615ga2c5gcd1b50a21505" version="1">You practice the Drow fighting style of kyorlin plynn. Once per short rest, you may &lt;LSTag Type="Status" Tooltip="DISARMED"&gt;Disarm&lt;/LSTag&gt; an enemy or taunt them into attacking you.</content>
+	<content contentuid="hb44e33efgbeb1g4040gbb47g44f100fd726c" version="1">Fighting Style: Luth alur</content>
+	<content contentuid="h313cea93g636cg467ag904cg27eec3d3cc84" version="1">You utilize the fighting style luth alur. You have a +2 bonus to all &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; made with Ranged weapons or spells.</content>
+	<content contentuid="h0ea58e13g2e14g45b3gb80dg63a37c66ae72" version="1">Fighting Style: Orb alur</content>
+	<content contentuid="h5965d938gc1ffg43edga211gbc90fc0026f5" version="1">You fight using the sweeping style of orb alur. Once per battle, you may attempt to strike up to 3 enemies in a cone before you. If hit, they also become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DISARMED"&gt;Disarmed&lt;/LSTag&gt;. If your attack misses, they become &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DISARMED"&gt;Disarmed&lt;/LSTag&gt;.</content>
+	<content contentuid="h4c6eda3ag1189g454ag8c58g06b190a5b0ce" version="1">Fighting Style: Sargh'elgg</content>
+	<content contentuid="h8520739cg2e0cg4a8eg8e2dg7808e6f16dea" version="1">Sargh'elgg is the most common Drow fighting style. While wielding only a single &lt;LSTag Tooltip="Finesse"&gt;Finesse Weapon&lt;/LSTag&gt;, you add a +2 bonus to your weapon damage, and a +1 bonus to your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;.</content>
+	<content contentuid="hbc39c45agfb01g47bcg9f7dg8d47849951de" version="1">Fighting Style: Ust sreen</content>
+	<content contentuid="he1ae5621gd7d5g425eg8359g16de068c6b33" version="1">You use the ust sreen fighting style. You gain +10 bonus to your Initiative, and you cannot be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
+	<content contentuid="h9d4507d3g840eg44d8g9992gdb8a4f2aac1d" version="1">Spellsong: Careful Spell</content>
+	<content contentuid="h27da60d2gb54fg4e23ga215gc8f5d8ae0fc5" version="1">Allies automatically succeed &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against spells that require them. &lt;br&gt;&lt;br&gt;Costs [1] Spellsong Charges per spell.</content>
+	<content contentuid="h6699d577g07e1g464egad45gc116ee1585b9" version="1">Spellsong: Distant Spell</content>
+	<content contentuid="h960a919fg52d6g4a98g8e4eg59446b861d97" version="1">Increase the range of spells by 50%. Melee spells get a range of [3].&lt;br&gt;&lt;br&gt;Costs [1] Spellsong Charges per spell.</content>
+	<content contentuid="hd0aa1ac9gfa5eg4c35ga13dgf3605bc517a0" version="1">Spellsong: Extended Spell</content>
+	<content contentuid="h2b8cbc4bg1c3eg4b99ga348gcd44f5dd3cfa" version="1">Double the duration of conditions, summons, and surfaces caused by spells. &lt;br&gt;&lt;br&gt;Costs [1] Spellsong Charge per spell.</content>
+	<content contentuid="h099a1311g5356g4929ga25cg4148d6b0681a" version="1">Spellsong: Twinned Spell</content>
+	<content contentuid="hc69787e7g5c0bg49d2gb20bgc03bdd28011d" version="1">Spells that only target 1 creature can target an additional creature.&lt;br&gt;&lt;br&gt;Costs 1 Spellsong Charge per &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; level used. &lt;LSTag Tooltip="Cantrip"&gt;Cantrips&lt;/LSTag&gt; also cost 1 Spellsong Charge.</content>
+	<content contentuid="h444ab1f2gf536g4155g9cb4gea54701628e1" version="1">For spells that don't shoot a projectile, the targets need to be close enough together.</content>
+	<content contentuid="h34dc5d2fgca83g4aefg9962gf02070028ff7" version="1">Spellsong: Heightened Spell</content>
+	<content contentuid="h91eafbb3ge3a9g4d4fgb3bag145f06419db2" version="1">Targets of spells that require &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on their first Saving Throw. &lt;br&gt;&lt;br&gt;Costs [1] Spellsong Charges per spell.</content>
+	<content contentuid="hcf2fbb73g55a3g4a6eg8aaag40222d17bf91" version="1">Spellsong: Quickened Spell</content>
+	<content contentuid="hea42e767g9d11g4d6ega0c9g2d726dd463b1" version="1">Spells that cost an action cost a bonus action instead. &lt;br&gt;&lt;br&gt;Costs [1] Spellsong Charges per spell.</content>
+	<content contentuid="h3e13ddd4g7536g4827ga983gc9c2b62105a6" version="1">Spellsong: Subtle Spell</content>
+	<content contentuid="h562c1195g1934g4946gae4fg3c5f7ea1b9ae" version="1">You can cast spells while Silenced. &lt;br&gt;&lt;br&gt;Costs [1] Spellsong Charges per spell.</content>
+	<content contentuid="h5ccba64eg7734g4459ga1e3gffef1188657d" version="1">Piercing Chorus</content>
+	<content contentuid="hb72cbc09g0f94g4cf0ga458g07b9fd2dfc7b" version="1">When you cast &lt;LSTag Type="Spell" Tooltip="IUM_CC_MagicMissile"&gt;Magic Missile (Cantrip)&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="IUM_CC_BlueFlameBlade"&gt;Blue Flame Blade&lt;/LSTag&gt;, add your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to the damage it deals.</content>
+	<content contentuid="h9aa1f863g3b91g45b9g9359g010dda37cc9d" version="1">Forceful Aria</content>
+	<content contentuid="hbc9ead7eg0362g4032g821ega07aedad5599" version="1">When you cast &lt;LSTag Type="Spell" Tooltip="IUM_CC_MagicMissile"&gt;Magic Missile (Cantrip)&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="IUM_CC_BlueFlameBlade"&gt;Blue Flame Blade&lt;/LSTag&gt;, you can push the creature up to [1] away from you.</content>
+	<content contentuid="h3b1f5902gebc4g40fdga140ga4f202c24061" version="1">Moonsong: Staccatissimo</content>
+	<content contentuid="h7febe519g20f5g4c10g988eg0e015f37f88b" version="1">Teleport to your target when you hit them with &lt;LSTag Type="Spell" Tooltip="IUM_CC_MagicMissile"&gt;Magic Missile (Cantrip)&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="IUM_CC_BlueFlameBlade"&gt;Blue Flame Blade&lt;/LSTag&gt;. Costs 1 Spellsong Charge per use.</content>
+	<content contentuid="h720889deg1c45g404eg8ff9gb2c89009c59a" version="1">Moonsong: Antiphon</content>
+	<content contentuid="hd5dc950eg120eg433bg8c6fg6812cd11a3a2" version="1">Swap places with your target when you hit them with &lt;LSTag Type="Spell" Tooltip="IUM_CC_MagicMissile"&gt;Magic Missile (Cantrip)&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="IUM_CC_BlueFlameBlade"&gt;Blue Flame Blade&lt;/LSTag&gt;. Costs 1 Spellsong Charge per use.</content>
+	<content contentuid="h0aa30f99g4d58g4cebg9a10g444350e66681" version="1">Magic Missile</content>
+	<content contentuid="h5279b5f4g163bg40b6g80ceg4bac93d96abf" version="1">Fire [1] magical dart(s). They always hit their target.</content>
+	<content contentuid="h481c0da8g9662g49e8g996fg1223879d459e" version="1">Blue Flame Blade</content>
+	<content contentuid="hdfff9b65g33d8g44f1ga696g81dad878d161" version="1">Channel the power of your Magic Missile spell into your blade, coating it in blue-white flames. It deals an extra [1].</content>
+	<content contentuid="h3a7ad729gfc9ag473bg965fg16256269b34f" version="1">Moonfire</content>
+	<content contentuid="hf0279d0dgb764g48f0ga664g9c95554b324e" version="1">Summon Eilistraee's Moonfire around your main-hand weapon, causing it to emanate light.</content>
+	<content contentuid="h9c1424c6g9ab4g403eg86bfgb6430686a945" version="1">Darkness: Kyone veldrin</content>
+	<content contentuid="h0024435cg015bg4997gbfdeg7034f0fdbb0b" version="1">Once per long rest, you may cast &lt;LSTag Type="Spell" Tooltip="Target_Darkness"&gt;Darkness&lt;/LSTag&gt; without consuming a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
+	<content contentuid="ha7bb48dcg0a8eg47fcgb773g09177693e023" version="1">Disarm: Kyorlin plynn</content>
+	<content contentuid="h17594424g8ca4g4010g9470g8aa84791a82e" version="1">Once per short rest, you may &lt;LSTag Type="Status" Tooltip="DISARMED"&gt;Disarm&lt;/LSTag&gt; an enemy.</content>
+	<content contentuid="h2de54fe5g6d43g4fa9g971cg08decedc2cba" version="1">Taunt: Kyorlin plynn</content>
+	<content contentuid="h29535e3cg066fg4eb9gbc4dgb7b4353cfcd0" version="1">Once per short rest, you may taunt an enemy into attacking you. The enemy also becomes &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantaged&lt;/LSTag&gt; on their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="h45f08dfegb010g49a9ga736gded9c233b649" version="1">Sweeping Strike: Orb alur</content>
+	<content contentuid="h4af51943gc1fdg44afgbedfg60d62d820c07" version="1">Strike at up to [1] enemies in a cone before you. If hit, they take [2] and become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; for 3 turns, and &lt;LSTag Type="Status" Tooltip="DISARMED"&gt;Disarmed&lt;/LSTag&gt;.</content>
+	<content contentuid="h1871717dg78fag40a0g91b5gd3724c6c454f" version="1">Singing Blade</content>
+	<content contentuid="hf5d0e994g31bag426dg8a4eg172566733442" version="1">Cause your main-hand blade to sing. Its damage becomes magical, you add your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and you cannot be disarmed.</content>
+	<content contentuid="h930509eag4a78g44cfg8e34g6dab07e977d5" version="1">Alicorn Lance</content>
+	<content contentuid="h864019eegfbb9g4d50g9536g2d3f2dbc24ee" version="1">Conjure a silver, ethereal alicorn above your brow and fire it at a target.</content>
+	<content contentuid="h3552b0dege35eg400ag96fag37abd62a35d9" version="1">Dancing Blade</content>
+	<content contentuid="ha11cdefagb21bg4f56gac3fgbbd3c4455100" version="1">Summon a spectral, dancing greatsword to attack your enemies. It deals [1].</content>
+	<content contentuid="ha533d0e5g9133g420fgb8b6g816f6a8dc413" version="1">Dancing Blade Slash</content>
+	<content contentuid="he9519f64gea88g4d4dga7e2g98be6b3a966a" version="1">Slice into a target with your dancing blade, dealing [1].</content>
+	<content contentuid="he02e57c7g52beg4d88gb66dgc90f94e4f972" version="1">Eilistraee's Moonfire illuminates your main-hand weapon.</content>
+	<content contentuid="h0c93050eg79a3g4ce5gb37cge988950aa284" version="1">Taunted: Kyorlin plynn</content>
+	<content contentuid="h408a22c7ga891g4216gb5c2ge1caa6ed7b14" version="1">Taunted by a user of kyorlin plynn. Has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="h26394af6g8b80g4eb9g90dagdedd821250f4" version="1">Your main-hand blade sings. Its damage becomes magical, you add your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and you cannot be disarmed.</content>
+	<content contentuid="h631d5a22g98acg458agad11g10b26501fb2e" version="1">Create Spellsong Charges</content>
+	<content contentuid="h113d5d0fg1277g4efcgb5fdg82d641c0d004" version="1">Spend &lt;LSTag Tooltip="SpellSlot"&gt;spell slots&lt;/LSTag&gt; to gain Spellsong Charges.</content>
+	<content contentuid="hae995ca3gc2ddg4c13gb004g8ab1095b0f01" version="1">Create Spellsong Charges: 1</content>
+	<content contentuid="h4a2774c4ga30eg422egb59fg5a58a57e8b43" version="1">Spend a level [1] &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; to gain [1] Spellsong Charge.</content>
+	<content contentuid="h846d65c5g07a1g4ceeg987fgb6f6d7de61f0" version="1">Create Spellsong Charges: 2</content>
+	<content contentuid="h2296dcefg5610g4c3dg9311g2a008f0784eb" version="1">Spend a level [1] &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; to gain [1] Spellsong Charges.</content>
+	<content contentuid="hec6899bcg84d9g4e3ag88d2g057de5a75e1d" version="1">Create Spellsong Charges: 3</content>
+	<content contentuid="h3a6fcbc2g04b5g4d5dgb07dg67c0f2ddb524" version="1">Create Spellsong Charges: 4</content>
+	<content contentuid="h14a1175cg0e13g4473g9fe5gf616f76b0ff2" version="1">Create Spellsong Charges: 5</content>
+	<content contentuid="hb8262d2cgc35eg4fb7ga64ag215b6f89d84e" version="1">Create Spellsong Charges: 6</content>
+	<content contentuid="h16508854gafa1g4954g90abg7519c2bfd432" version="1">Spend Spellsong Charges to unlock a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
+	<content contentuid="hcca17c28gaf69g4956gadbcg12e169324ed1" version="1">Spend [1] Spellsong Charges to unlock a level [2] &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
+	<content contentuid="h076f8f76g2a92g4b2cg8bddg39f2cf35e77d" version="1">Create Spell Slot: Level 6</content>
+	<content contentuid="hd08e8dddg283eg4334ga4bbg258dc84b8012" version="1">Song of Hope</content>
+	<content contentuid="hbe6ab342g3b21g40a1g98a5g9301c3e57a3c" version="1">Channel Eilistraee's Spellsong to inspire you and your allies, adding your Charisma modifier to all of their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and can't be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;.</content>
+	<content contentuid="h58310ea1g7047g40cag99c8gc955c57780da" version="1">Song of Life</content>
+	<content contentuid="h73068021g8a60g47e9gaca2g0c453a6907c6" version="1">Channel Eilistraee's Spellsong to rally your allies and restore their health.</content>
+	<content contentuid="ha7623528ge557g4783ga725gab1e6f855304" version="1">Song of Rapture</content>
+	<content contentuid="h8641177egd766g4caegb002g3809f6aca391" version="1">Channel Eilistraee's Spellsong to enthrall your enemies, preventing them from taking any actions.</content>
+	<content contentuid="hfd8ac6faga6efg4a31gbc0cgff13bfb5ccdd" version="1">Song of Sanctuary</content>
+	<content contentuid="hd93a23cbg0e77g49a9g9ec8gb9fdb734c402" version="1">Channel Eilistraee's Spellsong to shield you and your allies from harm, granting you &lt;LSTag Type="Status" Tooltip="SANCTUARY"&gt;Sanctuary&lt;/LSTag&gt;, and allowing you to regain the maximum &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; possible when healed. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and Death Saving Throws.</content>
+	<content contentuid="hd575c0e7g5311g4fb4g9cd3g67438eec47cd" version="1">Spellsong Charge Creation</content>
+	<content contentuid="h11f3fe82ga708g43c9g847dgc7087c7a5437" version="1">Spellsong Charges increased by [1].</content>
+	<content contentuid="h3d161d8bg2f7fg4240gaaeegd93dd7205002" version="1">Dancing Blade</content>
+	<content contentuid="h9bcfb4e3g4201g49f3gb42dgc4d4521bbc8e" version="1">Spellsong Charges</content>
+	<content contentuid="h75c900acge1b3g45a0gb1eag7f2a63ea7889" version="1">The number of times you can channel the power of Eilistraee's Spellsong per day.</content>
+
+
+    <content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+</contentList>

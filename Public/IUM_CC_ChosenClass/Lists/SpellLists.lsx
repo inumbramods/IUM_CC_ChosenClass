@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 1 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MagicMissile;Target_CureWounds;Target_Bless;Target_LayOnHands;Shout_DivineSense;Target_Ceremony;Target_FindFamiliar;Shout_DisguiseSelf;Target_UnseenServant;Target_CreateDestroyWater;Target_Goodberry;Target_SpeakWithDead;IUM_CC_Moonfire"/>
+                    <attribute id="UUID" type="guid" value="20e3db5e-1fe0-4a8c-a44c-2622cb194ad0"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 2 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="Shout_TurnUndead;Shout_PreserveLife;Shout_SongOfRest;Shout_WildShape_Combat;Shout_WildShape_Combat_Badger;Shout_WildShape_Combat_Spider;Shout_WildShape_Combat_Wolf_Dire;Shout_WildShape_Combat_Cat;Shout_WildShape_Combat_Bear_Polar;Target_Smite_Divine;Target_Smite_Divine_Unlock;Target_Smite_Divine_Critical_Unlock;Shout_ActionSurge;IUM_CC_CreateSpellsongPoints;IUM_CC_CreateSpellSlot"/>
+                    <attribute id="UUID" type="guid" value="f7ec84e2-720e-4eb6-96eb-7cf95b05a83a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 3 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="IUM_CC_SingingBlade;Shout_Aid;Target_LesserRestoration;Zone_BladeFlourish_Slashing;Target_BladeFlourish_Defensive;Projectile_BladeFlourish_Defensive;Target_BladeFlourish_Mobile;Projectile_BladeFlourish_Mobile;Projectile_BladeFlourish_Slashing;Target_RangersCompanion;IUM_CC_AlicornLance"/>
+                    <attribute id="UUID" type="guid" value="869f6c46-703e-435b-81aa-909a62fbb9f8"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 4 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="IUM_CC_SongOfHope;Shout_WildShape_Combat_DeepRothe;Shout_WildShape_Combat_Raven"/>
+                    <attribute id="UUID" type="guid" value="e69e9154-4568-409d-8925-910ffd9d69ba"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 5 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="Teleportation_Revivify;Shout_BeaconOfHope"/>
+                    <attribute id="UUID" type="guid" value="d6c4bad0-c7e0-4c87-a9c9-6833cc54d092"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 6 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="Target_BenignTransposition_Teleport;Target_Countercharm;Shout_Wildshape_Combat_Panther;Shout_WildShape_Combat_Owlbear;IUM_CC_SongOfLife"/>
+                    <attribute id="UUID" type="guid" value="e1baae6c-6f52-491e-ae44-e632167cfffd"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 7 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="Target_DeathWard;Target_GuardianOfFaith"/>
+                    <attribute id="UUID" type="guid" value="8298f60b-6217-4cc5-a448-6f3ba41cf4b1"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 8 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="Target_DivineStrike_Life_Container;Target_DivineStrike_Nature_Container;Shout_Wildshape_Combat_SaberTooth_Tiger;IUM_CC_SongOfRapture"/>
+                    <attribute id="UUID" type="guid" value="085660ab-8ef1-4c0f-891e-69a2a4758f66"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 9 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds_Mass;Target_GreaterRestoration;IUM_CC_DancingBlade"/>
+                    <attribute id="UUID" type="guid" value="c443b9af-3019-4aa4-a509-6d4431929882"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 10 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="Shout_WildShape_Combat_Dilophosaurus;Shout_WildShape_Combat_Myrmidon_Air;Shout_WildShape_Combat_Myrmidon_Earth;Shout_WildShape_Combat_Myrmidon_Fire;Shout_WildShape_Combat_Myrmidon_Water"/>
+                    <attribute id="UUID" type="guid" value="6e64048a-2fe0-4474-943c-4feb332e1558"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 11 - Always Prepared"/>
+                    <attribute id="Spells" type="LSString" value="IUM_CC_SongOfSanctuary"/>
+                    <attribute id="UUID" type="guid" value="2fae193c-c012-4ecd-9768-b055c25541d5"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="IUM_CC_MagicMissile;IUM_CC_BlueFlameBlade;Target_Guidance;Shout_ProduceFlame;Target_Resistance;Shout_BladeWard;Target_DancingLights;Target_Friends;Target_Light;Target_MageHand;Shout_WordOfRadiance;Target_SacredFlame;Target_SpareTheDying;Shout_Thaumaturgy;Target_Prestidigitation;Target_Burn;Target_ControlFlames;Target_CreateBonfire;Shout_Druidcraft;Shout_Thunderclap;Target_TrueStrike;Target_Freeze;Target_Frostbite;Target_Gust;Shout_IceWeapon;Target_Impact;Target_MagicStone;Target_PrimalSavagery;Target_MoldEarth;Projectile_RockSlam;Target_ShapeWater;Shout_Shillelagh;Shout_StoneForming;Target_ThornWhip;Target_BoomingBlade;Shout_SwordBurst"/>
+                    <attribute id="UUID" type="guid" value="bc442fd4-79a1-4da9-aab0-76f74c3963f2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 1 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_AnimalFriendship;Target_Bane;Target_CharmPerson;Zone_ColorSpray;Target_Command_Container;Target_CureWounds;Shout_EarthTremor;Target_FaerieFire;Target_HealingWord;Target_Heroism;Target_HideousLaughter;Target_Sleep;Zone_Thunderwave;Target_Bless;Projectile_GuidingBolt;Target_ProtectionFromEvilAndGood;Target_Sanctuary;Target_ShieldOfFaith;Shout_AbsorbElements;Zone_ArcticBreath;Target_BeastBond;Target_Entangle;Target_FogCloud;Shout_LightningTendril;Projectile_IceKnife;Target_Snare;Projectile_WaterBlast;Target_CompelledDuel;Shout_DivineFavor;Target_Smite_Searing;Target_Smite_Thunderous;Target_Smite_Wrathful;Projectile_EnsnaringStrike_Container;Target_HuntersMark;Projectile_HailOfThorns;Shout_ZephyrStrike;Shout_Shield_Sorcerer;Shout_ExpeditiousRetreat;Projectile_GaleBolt"/>
+                    <attribute id="UUID" type="guid" value="949e6d66-509a-475b-b41e-33ea9d5a4347"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 2 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_Enthrall;Target_Invisibility;Shout_Aid;Target_Blindness;Shout_BorrowedKnowledge;Target_CalmEmotions;Target_ContinualFlame;Target_EnhanceAbility;Target_HoldPerson;Target_LesserRestoration;Shout_PrayerOfHealing;Target_ProtectionFromPoison;Target_Silence;Target_SpiritualWeapon;Target_WardingBond;Target_Barkskin;Projectile_Crackle;Target_DustDevil;Target_EnlargeReduce;Shout_FlameBlade;Target_FlamingSphere;Zone_GustOfWind;Target_HealingSpirit;Target_HeatMetal;Target_Moonbeam;Shout_PassWithoutTrace;Target_SpikeGrowth;Target_SummonBeast;Target_WitherAndBloom;Shout_WardingWind;Target_MagicWeapon;Target_Smite_Branding_Container;Shout_Blur;Target_CloudOfDaggers;Target_ColdSnap;Target_Darkness;Target_ArcaneLock;Target_Knock"/>
+                    <attribute id="UUID" type="guid" value="6a9dd148-7ba2-4946-ad07-67b44408b603"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 3 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_Catnap;Target_EnemiesAbound;Target_FeignDeath;Target_GlyphOfWarding;Target_HypnoticPattern;Target_IntellectFortress;Shout_HealingWord_Mass;Target_MotivationalSpeech;Target_Nondetection;Target_PlantGrowth;Target_Slow;Target_SpeakWithDead;Target_StinkingCloud;Shout_AuraOfVitality;Shout_BeaconOfHope;Target_BestowCurse;Target_CreateFoodAndWater;Target_Daylight_Container;Target_LifeTransference;Target_ProtectionFromEnergy;Target_RemoveCurse;Teleportation_Revivify;Shout_SpiritGuardians;Shout_SpiritShroud;Shout_WaterWalk;Target_CallLightning;Target_ElementalWeapon;Target_EruptingEarth;Target_FireCyclone;Target_FlameArrows;Target_SleetStorm;Zone_VortexBlast;Shout_CrusadersMantle;Target_Smite_Blinding;Zone_ConjureBarrage;Projectile_LightningArrow;Target_Counterspell;Shout_Blink;Target_Haste;Teleportation_ThunderStep;Target_GaseousForm"/>
+                    <attribute id="UUID" type="guid" value="10af2ea8-3be0-4647-8253-fb20f52592c2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 4 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_CharmMonster;Target_Confusion;Teleportation_DimensionDoor;Target_FreedomOfMovement;Target_Invisibility_Greater;Target_Polymorph;Target_Banishment;Target_DeathWard;Target_GuardianOfFaith;Target_Blight;Target_ConjureElementals_Minor_Container;Target_ConjureWoodlandBeings;Target_DominateBeast;Shout_FireShield;Zone_Fissure;Target_GraspingVine;Shout_GuardianOfNature;Target_IceStorm;Shout_OrbitalStones;Target_Stoneskin;Target_SummonElemental;Wall_WallOfFire;Target_StaggeringSmite;Zone_DimensionCutter"/>
+                    <attribute id="UUID" type="guid" value="5befe50e-93c4-4679-a3e4-9b2461c2f52d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 5 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_HoldMonster;Target_CureWounds_Mass;Target_PlanarBinding;Target_Seeming;Target_SkillEmpowerment;Target_Contagion;Shout_DispelEvilAndGood;Target_FlameStrike;Target_GreaterRestoration;Target_HolyWeapon;Target_InsectPlague;Shout_CommuneWithNature;Zone_ConeOfCold;Target_ConjureElemental_Container;Projectile_SkyBurst;Wall_WallOfStone;Projectile_Smite_Banishing_Container;Shout_DestructiveWave;Target_HolyWeapon;Target_FarStep;Zone_Fissure"/>
+                    <attribute id="UUID" type="guid" value="8d8a5d88-779c-43cb-9293-4edc0f89075c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen - Level 6 Spells"/>
+                    <attribute id="Spells" type="LSString" value="Target_Eyebite;Target_IrresistibleDance;Wall_BladeBarrier;Target_Harm;Target_Heal;Shout_HeroesFeast;Target_PlanarAlly_Container;Zone_Sunbeam;Target_FleshToStone;Wall_WallOfThorns;Shout_WindWalk;Teleportation_ArcaneGate;Target_GlobeOfInvulnerability"/>
+                    <attribute id="UUID" type="guid" value="9fb3e685-3ece-4034-b190-c0d8672433fd"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Chosen"/>
+                    <attribute id="Spells" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value=""/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

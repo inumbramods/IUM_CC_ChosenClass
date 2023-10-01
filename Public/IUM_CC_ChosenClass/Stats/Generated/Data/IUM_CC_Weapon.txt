@@ -1,0 +1,7 @@
+new entry "IUM_CC_CrescentBlade"
+type "Weapon"
+using "WPN_Scimitar_2"
+data "RootTemplate" "88831da0-97c9-4f75-834e-c257649380bd"
+data "Rarity" "Legendary"
+data "Unique" "1"
+data "Weapon Properties" "Melee;Dippable;Magical;Finesse"

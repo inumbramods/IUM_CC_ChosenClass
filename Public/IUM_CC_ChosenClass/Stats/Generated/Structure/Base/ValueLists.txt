@@ -1,0 +1,5 @@
+valuelist "StatusGroupFlags"
+value "IUM_CC_SG_Moonfire"
+
+valuelist "PassiveFlags"
+value "IUM_CC_Spellsong"

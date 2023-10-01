@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="7" build="406"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="IUM_CC_EQP_CC_ChosenClass"/>
+                    <attribute id="Description" type="TranslatedString" handle="hbeb11cf9g2527g4577g9540g1e1baff25b42" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3690f017g9cb9g40b9gaef4g14af139cb1ed" version="1"/>
+                    <attribute id="HasGod" type="bool" value="false"/>
+                    <attribute id="HpPerLevel" type="int32" value="5"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="IUM_CC_Chosen"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="dc650fee-d242-4228-bee2-597c9f365af4"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Bard"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+					<attribute id="SpellList" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="ad6ccfb2-13ff-45a4-a5e0-ccd77629f42a"/>
+					<children>
+                        <!-- Cleric -->
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5"/>
+                        </node>
+                        <!-- Bard -->
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d93434bd-6b71-4789-b128-ee24156057cc"/>
+                        </node>
+                        <!-- Druid -->
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="44ac4317-4d38-4d28-80e2-94024c6e42f0"/>
+                        </node>
+                        <!-- Ranger -->
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a"/>
+                        </node>
+                        <!-- Cleric of Eilistraee -->
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c4749983-8bb9-4aa5-bf18-afd9cb1ce915"/>
+                        </node>
+                        <!-- Paladin of Eilistraee -->
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="b438b4e8-fb16-4202-b338-17d2d874c2c1"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

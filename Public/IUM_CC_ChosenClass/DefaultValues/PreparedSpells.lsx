@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="325"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="Prepare" type="LSString" value="Projectile_GuidingBolt;Target_ShieldOfFaith;Target_CureWounds;Target_Bless"/>
+                    <attribute id="TableUUID" type="guid" value="dc650fee-d242-4228-bee2-597c9f365af4"/>
+                    <attribute id="UUID" type="guid" value="278f7fb8-875f-4d57-a521-c73264b90068"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

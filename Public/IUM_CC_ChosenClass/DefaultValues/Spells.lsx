@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="320"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="IUM_CC_MagicMissile;IUM_CC_BlueFlameBlade;Target_Guidance;Shout_ProduceFlame;Target_Resistance;Shout_BladeWard;Target_DancingLights;Target_Friends;Target_Light;Target_MageHand;Shout_WordOfRadiance;Target_SacredFlame;Target_SpareTheDying;Shout_Thaumaturgy;Target_Prestidigitation;Target_Burn;Target_ControlFlames;Target_CreateBonfire;Shout_Druidcraft;Shout_Thunderclap;Target_TrueStrike;Target_Freeze;Target_Frostbite;Target_Gust;Shout_IceWeapon;Target_Impact;Target_MagicStone;Target_PrimalSavagery;Target_MoldEarth;Projectile_RockSlam;Target_ShapeWater;Shout_Shillelagh;Shout_StoneForming;Target_ThornWhip;Target_BoomingBlade;Shout_SwordBurst"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="IUM_CC_Cantrip"/>
+                    <attribute id="TableUUID" type="guid" value="dc650fee-d242-4228-bee2-597c9f365af4"/>
+                    <attribute id="UUID" type="guid" value="09caab88-3843-4345-93d4-44452f61b4f9"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
