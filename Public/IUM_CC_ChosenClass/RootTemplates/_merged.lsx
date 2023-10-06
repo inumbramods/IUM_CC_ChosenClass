@@ -1,0 +1,3166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!-- Head - - Druid Circlet Circlet (BasketEquipmentNSFW.pak) -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h06f6ec05g2cc7g422ega224gb44ff82b82df" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h94c58405g52e9g4022g91abg01deef30b231" version="1" />
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_DRUID_CIRCLET_1B" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2dc33237-1aa2-438a-82f2-38db3b499f2e" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Circlet" />
+					<attribute id="ParentTemplateId" type="FixedString" value="348b0f52-8960-43e0-ae38-c1d3b1974c3f" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Circlet" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6503c830-9200-409a-bd26-895738587a4a" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
+											<attribute id="MapValue" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Headwear" />
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_1" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_2" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_01" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_02" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_03" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Secondary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Tertiary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="3cdb3e73-15dc-4897-ae0b-c6a1ff92b635" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="85fa3db6-57c6-4b0d-a9ad-88880b2d35a0" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<!-- Cloak - Unicorn Mane Cloak - Mizora Cloak (BasketEquipmentNSFW.pak) -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hbb244df5gbda4g437cgb4b6g19b94355f073" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h378c2a1bgd1bag49c3g8e2fgd84360a6b65a" version="1" />
+					<attribute id="MapKey" type="FixedString" value="f1fe6d7d-e4b1-41dc-b99c-a2633551fcce" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Cloak" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="602f62dd-0fba-4438-ad68-b846f17ac538" />
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_MIZORA_CLOAK_1A" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Cloak" />
+					<children>
+						<node id="Tags" />
+						<node id="Equipment">
+							<children>
+								<node id="ShortHair" />
+								<node id="LongHair" />
+								<node id="WavyShortHair" />
+								<node id="WavyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="DreadShortHair" />
+								<node id="DreadLongHair" />
+								<node id="AfroShortHair" />
+								<node id="AfroLongHair" />
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="fb7dc2db-50d0-4a3c-9768-df67d91e93d1" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="ParentRace" />
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets" />
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_1" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_2" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_01" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_02" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_03" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Secondary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Tertiary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Primary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Accent_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!-- Chest - Silver Mail of the Unicorn Queen - Elven Armor 1A (BasketEquipmentNSFW.pak) -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h22972ca0g7e1dg46b6g9492g0fe69f2e8373" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8e92b48cgd965g4c6aga53agc889436c55fd" version="1" />
+					<attribute id="MapKey" type="FixedString" value="a79d0677-7bff-4568-b80a-36d027560172" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Tunic" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="391bccb7-8199-41e3-9aa3-261def2ebf26" />
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_ELVEN_ARMOR_1A" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Tunic" />
+					<children>
+						<node id="Tags" />
+						<node id="Equipment">
+							<children>
+								<node id="ShortHair" />
+								<node id="LongHair" />
+								<node id="WavyShortHair" />
+								<node id="WavyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="DreadShortHair" />
+								<node id="DreadLongHair" />
+								<node id="AfroShortHair" />
+								<node id="AfroLongHair" />
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="2c9bd28e-64a5-f820-ac1d-1491db918e58" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b316ff74-2051-941b-e284-8af6ef40929a" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="5d609e9c-c59d-326d-eb1c-e9deb6588e41" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="01ae9db5-437b-c4e3-d28a-0912554ed206" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-948f-4a3df6772baa" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="da911c04-8bcd-e4fc-68a6-6646921c60dc" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="18f02045-770b-420a-a6c5-612edf126b2c" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-8175-8acdbbf33f33" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="06fde089-1326-4839-b032-43cb9858270b" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0e899f33-c371-2bb7-40f3-3a63b2545d10" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b316ff74-2051-941b-e284-8af6ef40929a" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="2c9bd28e-64a5-f820-ac1d-1491db918e58" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-815b-6a0b4ef95aca" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a7c86629-6d88-ac2e-bb24-f79fdbcc27c7" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="7f929da1-a8a7-2b93-c987-1d0006cb3345" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="07477e9b-fdc9-1382-b679-49a4f619f648" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="3f98380d-6f58-0370-63f7-64640f35d23f" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="8ae27ca1-5ed5-dd3e-8915-c37c8ac11e7e" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="d457089e-aed3-b82f-f3d4-535381e5e952" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f94c451b-bfa1-9fa5-eee3-6acf1d1a073c" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="2d76e68d-122c-ca1b-eae6-2754d6f2a427" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="d46b2473-8c08-d23b-ef46-78c8c04ac674" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="de07801a-a091-8d86-fe6b-0d098c3629b9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="5725f139-b45e-2c89-12fe-624df6f0ca4c" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="2824e7d3-f29f-a168-f95f-cc2bd49e5e33" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="d46b2473-8c08-d23b-ef46-78c8c04ac674" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="de07801a-a091-8d86-fe6b-0d098c3629b9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0d47c19e-5630-6fb1-98cd-7b497adb627f" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0c9fd445-a9bf-647c-e92b-c4881c61c2ad" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="646fc4c8-475e-9c59-bca9-543d056d5bc8" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0dcb3f79-d790-b21d-7648-553f1df636f4" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="55cbaffb-7615-e951-58e3-fcc40912a018" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="934d42ed-2d6a-4d96-cfcc-67fa16ba8ddc" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-80d2-8f47b706f024" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="11f7d073-69c7-dcb4-dbf8-1192accafb85" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="cc72895e-822f-7897-aa2c-979570521473" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_1" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_2" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_01" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_02" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_03" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Secondary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Tertiary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!-- Hands - - Elven Bracers (BasketEquipmentNSFW.pak) -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h345e5244gea82g435dga9d2g345e38d3e1b5" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h78b8edafg68fag4a4dgab81g9613fe753aeb" version="1" />
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_ELVEN_BRACERS_1A" />
+					<attribute id="MapKey" type="FixedString" value="00c00d87-f0d5-4b3e-a787-c464bb7d671e" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Bracers" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9e90efe2-200a-4923-a597-ddc044e704f2" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Bracers" />
+					<children>
+						<node id="Equipment">
+							<children>
+								<node id="AfroLongHair" />
+								<node id="AfroShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="DreadLongHair" />
+								<node id="DreadShortHair" />
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Gloves" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0abf9340-6f91-8d6e-cc0a-5b9e57b76ca2" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="22886aa8-3e69-d942-fadc-c0032f5838b9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="87a0ba1a-db71-9c95-277b-e3e49acc5ba4" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a7b19faa-3ee4-c140-8238-b974502f91e5" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="31c298eb-b247-a82c-9984-f28a704973cb" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="6ec261e7-76fa-3bc2-8303-308ebe322346" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="046c3a54-61e0-2384-392f-c4f60a291dac" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a166f3f9-0b49-3196-e71c-d6506cc371d0" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-80d2-8f47b706f024" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="72f2476d-0a08-0c1b-0d7b-40fb39007282" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-8175-8acdbbf33f33" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="825ac3ce-cb7a-f856-f799-9cb30b1de714" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-815b-6a0b4ef95aca" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="69467716-6f8e-676b-0e40-58d993a47d58" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-948f-4a3df6772baa" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f10a8d07-9164-cf1e-b685-f27b689d713f" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="87a0ba1a-db71-9c95-277b-e3e49acc5ba4" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="e80f440b-b685-e0c9-1d20-07b51c881484" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets" />
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_1" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_2" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_01" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_02" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_03" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Secondary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Tertiary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="WavyLongHair" />
+								<node id="WavyShortHair" />
+							</children>
+						</node>
+					</children>
+				</node>
+				<!-- Boots - - Elven Boots (BasketEquipmentNSFW.pak)-->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hf8dbebb8g610ag47b9gaf7eg36cfd0775d31" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd1c9edafg5577g4bdegb427g75921b8c670b" version="1" />
+					<attribute id="MapKey" type="FixedString" value="ae220ba7-0cce-4495-b1f1-10696babe6bd" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Boots" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6ea46549-90eb-45fc-8ece-238cf8c4065c" />
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_BOOTS_ELVEN_1A" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Boots" />
+					<children>
+						<node id="Equipment">
+							<children>
+								<node id="ShortHair" />
+								<node id="LongHair" />
+								<node id="WavyShortHair" />
+								<node id="WavyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="DreadShortHair" />
+								<node id="DreadLongHair" />
+								<node id="AfroShortHair" />
+								<node id="AfroLongHair" />
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0dcc04cf-6f62-406e-b61f-a28cefc4182a" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f5494915-8be2-4e0e-72aa-d854d14ae3a3" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="4ac9c947-4b5b-883f-8942-7124702cb7b9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="69ab2f6a-d13d-4cbd-a7c9-63bbc658ce05" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="7638757e-5c74-7e13-dabe-8ce68a652deb" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="06a5f64c-5e73-97bb-418b-279228bcd92c" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0a222899-a54e-56a2-f5f2-ee8b5cd4a6ac" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c12c8802-5e11-74e9-19e5-fa4665e8d19e" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-80d2-8f47b706f024" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="6a318727-addb-f178-33d6-85e14a764feb" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-8175-8acdbbf33f33" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="67803cd9-a9d1-de5c-04af-fc6fbca9365a" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-815b-6a0b4ef95aca" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0e71b6e0-b03b-6921-1958-0399290ac655" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-948f-4a3df6772baa" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="92dbc4b5-459b-908f-60f7-7f8cd934d16e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets" />
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_1" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_2" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_01" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_02" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_03" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Secondary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+												<!-- White -->
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="False" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Tertiary_Color" />
+													<attribute id="Value" type="fvec3" value="1 1 1" />
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Footwear" />
+								</node>
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!-- Camp Clothes - - Daisy Dress (White) (BasketEquipmentNSFW.pak)-->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h3bab0a1eg4073g496fg99b9g131dcc421745" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd1bd71f4g583dg4795ga840g02193e48f5aa" version="1" />
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_PURELOVER_DRESS_SILVER" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="9f08cf23-cbf3-47d2-b0e8-b7b0e54493af" />
+					<attribute id="Name" type="LSString" value="IUM_CC_CampClothes" />
+					<attribute id="ParentTemplateId" type="FixedString" value="168b9099-19f5-44e4-b55c-e64ceb60b71f" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_CampClothes" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="2" />
+							<children>
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="34a5f40b-d199-86cb-4f53-528510924063" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="bd5b0136-c880-c9bd-38e9-e686d6f04dbe" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="cf67837d-a955-4d98-89c2-a8b8c66a48eb" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="ff051a63-490e-4f04-87bd-ff0c669a36a2" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="6d27fa91-a16a-69b5-54d6-ca7de01a7c44" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="e6093d04-6051-60cc-ad8b-cb04630f9cf5" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a1d65aaf-99b3-8a07-8d72-79b06747526d" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="5d2c95b3-b186-e39b-b8c8-a6162eb56b80" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b53a99bb-75f7-c258-2f5a-1676f314bf60" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="83e6fe06-1ab2-2547-4336-86b2b6452dfa" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="04eaf620-ebb8-bdb3-c370-43d76b885747" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="ace14eda-bc84-e278-82c1-951f160028d4" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="448be587-86af-a466-2ada-823e258c860f" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="aae1b673-d2ca-cca7-e82a-456c72994fb9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="431b7b52-6e28-b4e9-27eb-fcb1b5803529" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="ff2cc997-2ad7-264e-929f-f0af76f88bd9" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-80d2-8f47b706f024" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="804c38e7-8949-ec9e-0b09-5dc869d17106" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="b6b738a3-a479-8e8e-449b-0a3e2e8cd062" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-8175-8acdbbf33f33" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="d653a243-ef74-7bc1-63fc-207786b13db1" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="9ce2167a-b315-d52a-a4e7-14b5650e17a5" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-815b-6a0b4ef95aca" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="7399d7d7-4c88-32df-c3c5-0df2eac64477" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="bb459a98-6887-d37d-cd6c-54f166ac44b6" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-948f-4a3df6772baa" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="3933e309-de8f-d3c4-506f-8f388d051598" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="99842768-9f18-ba03-ae04-594b0a2a2a0c" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="4d999d49-46f4-de13-7f46-a9e023ef6c0c" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="2210e9fa-7277-7377-c548-f64db4de4a1a" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c6a41b26-7e10-4096-4a6d-b8b21a805c5e" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="c242be34-9b50-a76d-86d0-ae4bf3dc11ef" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="58efd611-5520-3fbe-ff7c-e773d2bbd00b" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="13d2eb3b-882c-099a-1b0c-dca5f1f45e6b" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="f985bb5a-d5e2-f03f-fdb2-aec02203167b" />
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="4bba592f-e0de-40f9-4f5d-bd00a733e1fd" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<!-- Melee Weapon - Crescent Blade - Sussur Sickle -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="88831da0-97c9-4f75-834e-c257649380bd" />
+					<attribute id="Name" type="LSString" value="IUM_CC_CrescentBlade" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" />
+					<attribute id="VisualTemplate" type="FixedString" value="bbc4a4a9-28b4-6be2-894b-c2c076208e30" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="1d8f6c8f-bd67-f0ee-935a-5ed85ced1b84" />
+					<attribute id="Description" type="TranslatedString" handle="h4d6e7c16g73f1g4442gb891g9d7d5ae3d955" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hee9b5680g2f3fg4197ga41dgaf08f4558907" version="1" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Sickle_A_0" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_CrescentBlade" />
+					<attribute id="ExamineRotation" type="fvec3" value="75 180 0" />
+					<attribute id="EquipmentTypeID" type="guid" value="12b80df8-aaf1-4543-84fa-c44622e451b5" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0b8538bc-9d96-41de-93c0-223b581263f4" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="206f9701-7b24-4eaf-9ac4-a47746c251e2" />
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.05341581 -0.0006434657 -0.197881" />
+									<attribute id="Max" type="fvec3" value="0.09546009 0.02816433 0.08217928" />
+									<attribute id="Radius" type="float" value="0.0833395" />
+									<attribute id="Height" type="float" value="0.0374908" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1068316 -0.0006434657 -0.3957619" />
+									<attribute id="Max" type="fvec3" value="0.1909202 0.02816433 0.1643586" />
+									<attribute id="Radius" type="float" value="0.166679" />
+									<attribute id="Height" type="float" value="0.0374908" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1068316 -0.0006434657 -0.3957619" />
+									<attribute id="Max" type="fvec3" value="0.1909202 0.02816433 0.1643586" />
+									<attribute id="Radius" type="float" value="0.166679" />
+									<attribute id="Height" type="float" value="0.0374908" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!-- Ranged Weapon - Silvermane Longbow - Titansbane Longbow -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="85e42e1a-c1d6-4713-b454-252fd5a0f3b0" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Longbow" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="049173ec-636a-487e-a9ed-bfafeadf6bb7" />
+					<attribute id="VisualTemplate" type="FixedString" value="23a82a8b-1765-0ebd-bfef-5797963b5359" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9167bef6g8e1eg48c3g9bdeg88a783669831" version="1" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Longbow" />
+					<attribute id="Description" type="TranslatedString" handle="ha719e832g84b6g4c28g88bdgdaf660a802aa" version="1" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList" />
+					</children>
+				</node>
+				<!-- Amulet -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h3d6226d1g5aa6g463cg95a8g19c7c65fe5a3" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h69bc9e82g2170g4d21ga882g6690b367c552" version="1" />
+					<attribute id="Icon" type="FixedString" value="AMX_Item_AMX_AMULET_MONK_SILVER_1A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7930a767-e961-44b7-bd2f-c897ddc1de9f" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Amulet" />
+					<attribute id="ParentTemplateId" type="FixedString" value="01d74aea-9e8a-4d03-9b55-e43458b61163" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="44b109ba-ce99-b763-0c8c-66675eeed4b3" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Amulet" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="766f8ecb-ff88-5f72-f559-20795eb15b7d" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="1073741877" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<!-- Ring -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h8692d200g9ce1g49f4ga12cg92fa6e85b154" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb22009a5ge73eg402fg9574g43888289171a" version="1" />
+					<attribute id="Icon" type="FixedString" value="AMX_Item_RING_OBSIDIAN_DOWN_1A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="284f7510-9e42-4b73-8da0-72bd2abacf08" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Ring" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4e2487ad-5675-4459-a1f9-dd3d785a8b89" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Ring" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<!-- Lyre -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="8ab78896-1547-4eb1-b358-1d6eb2303f21" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Lyre" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13739f15-7366-4d7f-9926-991e98b9e964" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2bc93f72g3a62g4905g8639ga315a7edd030" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hf9111922g74e1g4338g88a2g34a45133e07a" version="1" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Lyre" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.09710316 0.0004835725 -0.2017467" />
+									<attribute id="Max" type="fvec3" value="0.09710332 0.1399795 0.239021" />
+									<attribute id="Radius" type="float" value="0.1679839" />
+									<attribute id="Height" type="float" value="0.1889464" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1942063 0.0004835725 -0.4034935" />
+									<attribute id="Max" type="fvec3" value="0.1942066 0.1399795 0.4780421" />
+									<attribute id="Radius" type="float" value="0.3359679" />
+									<attribute id="Height" type="float" value="0.1889464" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1942063 0.0004835725 -0.4034935" />
+									<attribute id="Max" type="fvec3" value="0.1942066 0.1399795 0.4780421" />
+									<attribute id="Radius" type="float" value="0.3359679" />
+									<attribute id="Height" type="float" value="0.1889464" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!-- Taran - Level 1 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9beee5c9-279e-49d8-a4a8-18f9ee0b1519" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_1" />
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
+					<attribute id="LevelOverride" type="int32" value="1" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 2 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="17c63198-d277-4362-a4c0-9a68276dbe92" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_2" />
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
+					<attribute id="LevelOverride" type="int32" value="2" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<attribute id="IsLootable" type="bool" value="False" />
+					<attribute id="DisableEquipping" type="bool" value="True" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 3 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d8e51972-9a6c-43d2-849f-e8db9415cc1b" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_3" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_3" />
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
+					<attribute id="LevelOverride" type="int32" value="3" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 4 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="cc9f6587-49ee-4fb9-be88-0df24feb1feb" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_4" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_4" />
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
+					<attribute id="LevelOverride" type="int32" value="4" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 5 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="095ba6ad-3824-4d90-8ed9-5aaf31ccc2a9" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_5" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_5" />
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
+					<attribute id="LevelOverride" type="int32" value="5" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_InfectiousBite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 6 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ce072ec3-38fd-4220-b095-096ea2fc161d" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_6" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_6" />
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 7 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5b6a3fc5-1f0e-41db-ad8f-4fb518e5fd49" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_7" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_7" />
+					<attribute id="SpellSet" type="FixedString" value="RangerCompanion_ExceptionalTraining" />
+					<attribute id="LevelOverride" type="int32" value="7" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 8 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="42d01e7f-74ab-44d3-a13e-2bc6857dbbff" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_8" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_8" />
+					<attribute id="SpellSet" type="FixedString" value="RangerCompanion_ExceptionalTraining" />
+					<attribute id="LevelOverride" type="int32" value="8" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 9 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="8038634c-76f5-4462-b233-54c31d940e8c" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_9" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_9" />
+					<attribute id="SpellSet" type="FixedString" value="RangerCompanion_ExceptionalTraining" />
+					<attribute id="LevelOverride" type="int32" value="9" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 10 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="f064e9ae-3862-4a68-bc0f-94747cef896d" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_10" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_10" />
+					<attribute id="SpellSet" type="FixedString" value="RangerCompanion_ExceptionalTraining" />
+					<attribute id="LevelOverride" type="int32" value="10" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 11 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="63f43846-1c8a-4d1f-b446-391a56ea026e" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_11" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_11" />
+					<attribute id="SpellSet" type="FixedString" value="RangerCompanion_ExceptionalTraining" />
+					<attribute id="LevelOverride" type="int32" value="11" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_InfectiousBite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Zone_Ferocious_Slash_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!-- Taran - Level 12 -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="2c83e7f8-f403-4bbe-8814-89e8a4247d44" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Taran_12" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="466852c0-377e-444e-b3a9-1b7297634baf" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53a538f4g2539g4a25g807egcac4742a4f02" version="1" />
+					<attribute id="Icon" type="FixedString" value="16be928b-c546-78fa-e825-b4c9d688d165-_(Icon_Wolf)" />
+					<attribute id="Stats" type="FixedString" value="IUM_CC_Taran_12" />
+					<attribute id="SpellSet" type="FixedString" value="RangerCompanion_ExceptionalTraining" />
+					<attribute id="LevelOverride" type="int32" value="12" />
+					<attribute id="DeathEffect" type="guid" value="f56585cd-1df0-47c2-95a2-74ba2fd46662" />
+					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="228e9ea5-264d-428b-9451-e8602a745233" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Bite_Wolf_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNARMEDATTACK_OVERRIDE_WOLF" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WOLF_AURA_SHADOWHEART" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+            </children>
+        </node>
+    </region>
+</save>

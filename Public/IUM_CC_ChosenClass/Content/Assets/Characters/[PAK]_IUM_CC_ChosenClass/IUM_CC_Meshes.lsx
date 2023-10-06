@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<!-- Cloak -->
+                <node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1920749 1.632203 0.184935" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.192075 0.921899 -0.053916" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="2a586a32-bb74-7cd9-1d06-7cdb212d7b57" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="fb7dc2db-50d0-4a3c-9768-df67d91e93d1" />
+					<attribute id="MaterialType" type="uint8" value="13" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Cloak_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="3a2042e4-2e4e-e947-a24d-8af636482f1f" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Cloak" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/_Female/Resources/HUM_F_CLT_Mizora_Cloak_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/_Female/Resources/HUM_F_CLT_Mizora_Cloak_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="d507ee15-3910-4884-baf5-e3d893e9734e" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Mizora_Cloak_A.HUM_F_CLT_Mizora_Cloak_Beads_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="d507ee15-3910-4884-baf5-e3d893e9734e" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Mizora_Cloak_A.HUM_F_CLT_Mizora_Cloak_Collar_A_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="59a20a96-f3ae-93fb-d922-e451914a8b4a" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Mizora_Cloak_A.HUM_F_CLT_Mizora_Cloak_Fur_A_Mesh.2" />
+						</node>
+					</children>
+				</node>
+				<!-- Daisy Dress Accessories -->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5858861 1.585939 0.1191523" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.5858865 0.037859 -0.1722033" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="ff051a63-490e-4f04-87bd-ff0c669a36a2" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_F_CLT_Daisy_Dress_A_Accessories_White" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/_Female/Resources/HUM_F_CLT_Daisy_Dress_A_Accessories.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/_Female/Resources/HUM_F_CLT_Daisy_Dress_A_Accessories.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fa4aaafd-6b42-4325-a26a-55c0fc2122e2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Daisy_Dress_A_Accessories.HUM_F_CLT_Daisy_Dress_A_Accessories_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="fa4aaafd-6b42-4325-a26a-55c0fc2122e2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Daisy_Dress_A_Accessories.HUM_F_CLT_Daisy_Dress_A_Accessories_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="fa4aaafd-6b42-4325-a26a-55c0fc2122e2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Daisy_Dress_A_Accessories.HUM_F_CLT_Daisy_Dress_A_Accessories_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="fa4aaafd-6b42-4325-a26a-55c0fc2122e2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_CLT_Daisy_Dress_A_Accessories.HUM_F_CLT_Daisy_Dress_A_Accessories_Mesh_LOD3.3" />
+						</node>
+					</children>
+				</node>
+				<!-- Halo Circlet -->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="3cdb3e73-15dc-4897-ae0b-c6a1ff92b635" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Halo" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/IUM_CC_ChosenClass/IUM_CC_Halo/IUM_CC_Halo_Female.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/IUM_CC_ChosenClass/IUM_CC_Halo/IUM_CC_Halo_Female.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855921" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="958824b6-47aa-4169-9cd9-951ee061f49f" />
+							<attribute id="ObjectID" type="FixedString" value="3cdb3e73-15dc-4897-ae0b-c6a1ff92b635" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<!-- Wings -->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="86c2af56-8ea8-4270-aed8-4b07a7a905be" />
+					<attribute id="BoundsMax" type="fvec3" value="2.174573 2.591218 0.9924628" />
+					<attribute id="BoundsMin" type="fvec3" value="-2.174573 1.12594 0.06045844" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="85fa3db6-57c6-4b0d-a9ad-88880b2d35a0" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="HUM_FS_Wings" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="3ab16354-81a3-a5af-8b72-e7f3011deb7b" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Wings" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/SharedDev/Assets/Characters/_Anims/_Creatures/Deva/_Male/Resources/DEVA_HUM_M_Deva_Wings.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/SharedDev/Assets/Characters/_Anims/_Creatures/Deva/_Male/Resources/DEVA_HUM_M_Deva_Wings.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="05339acf-296e-4715-a4d0-4ebb9c52fc4b" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="941fa8ff-d19c-85ee-0ca0-b0aa1daf1550" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="6e0570a1-b2a0-7566-01da-a92d1a3b45ba" />
+							<attribute id="ObjectID" type="FixedString" value="DEVA_HUM_M_Deva_Wings.HUM_M_Deva_Wings_Attachment_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="5e5b7f76-8fa5-16ff-0cf3-33d94f5ea041" />
+							<attribute id="ObjectID" type="FixedString" value="DEVA_HUM_M_Deva_Wings.HUM_M_Deva_Wings_Mesh.1" />
+						</node>
+					</children>
+				</node>
+            </children>
+        </node>
+    </region>
+</save>

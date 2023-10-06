@@ -6,7 +6,7 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Chosen - Level 1 - Always Prepared"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_MagicMissile;Target_CureWounds;Target_Bless;Target_LayOnHands;Shout_DivineSense;Target_Ceremony;Target_FindFamiliar;Shout_DisguiseSelf;Target_UnseenServant;Target_CreateDestroyWater;Target_Goodberry;Target_SpeakWithDead;IUM_CC_Moonfire"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_MagicMissile;Target_CureWounds;Target_Bless;Shout_DivineSense;Target_Ceremony;Target_FindFamiliar;Shout_DisguiseSelf;Target_UnseenServant;Target_MageHand;Target_CreateDestroyWater;Target_Goodberry;Target_SpeakWithDead;IUM_CC_CelestialStep;IUM_CC_Summon_Taran"/>
                     <attribute id="UUID" type="guid" value="20e3db5e-1fe0-4a8c-a44c-2622cb194ad0"/>
                 </node>
                 <node id="SpellList">
@@ -16,7 +16,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Chosen - Level 3 - Always Prepared"/>
-                    <attribute id="Spells" type="LSString" value="IUM_CC_SingingBlade;Shout_Aid;Target_LesserRestoration;Zone_BladeFlourish_Slashing;Target_BladeFlourish_Defensive;Projectile_BladeFlourish_Defensive;Target_BladeFlourish_Mobile;Projectile_BladeFlourish_Mobile;Projectile_BladeFlourish_Slashing;Target_RangersCompanion;IUM_CC_AlicornLance"/>
+                    <attribute id="Spells" type="LSString" value="IUM_CC_SingingBlade;Shout_Aid;Target_LesserRestoration;IUM_CC_AlicornLance;Target_Moonbeam"/>
                     <attribute id="UUID" type="guid" value="869f6c46-703e-435b-81aa-909a62fbb9f8"/>
                 </node>
                 <node id="SpellList">
@@ -71,7 +71,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Chosen - Level 2 Spells"/>
-                    <attribute id="Spells" type="LSString" value="Target_Enthrall;Target_Invisibility;Shout_Aid;Target_Blindness;Shout_BorrowedKnowledge;Target_CalmEmotions;Target_ContinualFlame;Target_EnhanceAbility;Target_HoldPerson;Target_LesserRestoration;Shout_PrayerOfHealing;Target_ProtectionFromPoison;Target_Silence;Target_SpiritualWeapon;Target_WardingBond;Target_Barkskin;Projectile_Crackle;Target_DustDevil;Target_EnlargeReduce;Shout_FlameBlade;Target_FlamingSphere;Zone_GustOfWind;Target_HealingSpirit;Target_HeatMetal;Target_Moonbeam;Shout_PassWithoutTrace;Target_SpikeGrowth;Target_SummonBeast;Target_WitherAndBloom;Shout_WardingWind;Target_MagicWeapon;Target_Smite_Branding_Container;Shout_Blur;Target_CloudOfDaggers;Target_ColdSnap;Target_Darkness;Target_ArcaneLock;Target_Knock"/>
+                    <attribute id="Spells" type="LSString" value="Target_Enthrall;Target_Invisibility;Shout_Aid;Target_Blindness;Shout_BorrowedKnowledge;Target_CalmEmotions;Target_ContinualFlame;Target_EnhanceAbility;Target_HoldPerson;Target_LesserRestoration;Shout_PrayerOfHealing;Target_ProtectionFromPoison;Target_Silence;Target_SpiritualWeapon;Target_WardingBond;Target_Barkskin;Projectile_Crackle;Target_DustDevil;Target_EnlargeReduce;Shout_FlameBlade;Target_FlamingSphere;Zone_GustOfWind;Target_HealingSpirit;Target_HeatMetal;Shout_PassWithoutTrace;Target_SpikeGrowth;Target_SummonBeast;Target_WitherAndBloom;Shout_WardingWind;Target_MagicWeapon;Target_Smite_Branding_Container;Shout_Blur;Target_CloudOfDaggers;Target_ColdSnap;Target_Darkness;Target_ArcaneLock;Target_Knock"/>
                     <attribute id="UUID" type="guid" value="6a9dd148-7ba2-4946-ad07-67b44408b603"/>
                 </node>
                 <node id="SpellList">

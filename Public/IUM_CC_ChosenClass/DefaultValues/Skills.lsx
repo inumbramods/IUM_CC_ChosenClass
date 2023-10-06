@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Nature;Survival;Medicine;AnimalHandling"/>
+                    <attribute id="Add" type="LSString" value="Nature;Survival;Medicine;Persuasion"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="TableUUID" type="guid" value="dc650fee-d242-4228-bee2-597c9f365af4"/>
                     <attribute id="UUID" type="guid" value="afcd15d0-0532-4061-a3ad-0eec4dc893c4"/>

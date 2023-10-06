@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<!-- Cloak Parts A Base -->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="1a605f10-167c-4c14-ab0b-72626b5a4114" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Cloak_Parts_A_BM" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/IUM_CC_ChosenClass/IUM_CC_Cloak/IUM_CC_Cloak_Parts_A_BM.dds" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274412" />
+				</node>
+				<!-- Cloak Parts A Normal -->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="51e54035-08d0-42f4-b4b2-27928a14ad77" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Cloak_Parts_A_NM" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/IUM_CC_ChosenClass/IUM_CC_Cloak/IUM_CC_Cloak_Parts_A_NM.dds" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274412" />
+				</node>
+				<!-- Cloak Parts A Physical -->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="ID" type="FixedString" value="dc7bce1a-9084-408e-a569-1f137a153201" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Cloak_Parts_A_PM" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/IUM_CC_ChosenClass/IUM_CC_Cloak/IUM_CC_Cloak_Parts_A_PM.dds" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274412" />
+				</node>
+				<!-- Halo Circlet -->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="efe8df2a-b19c-4cb4-8018-75820f33afca" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="IUM_CC_Halo_MSKA" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/IUM_CC_ChosenClass/IUM_CC_Halo/IUM_CC_Halo_MSKA.dds" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="IUM_CC_Halo_MSKA" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

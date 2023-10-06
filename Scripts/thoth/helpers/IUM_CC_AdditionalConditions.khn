@@ -3,3 +3,12 @@ local __util = require 'larian.util'
 function IsWildShape()
     return HasUseCosts('WildShape')
 end
+
+function CharacterLevelIs(value,entity)
+    entity = entity or context.Source
+    return ConditionResult(entity.Level == value, {ConditionError("IsNotCharacterLevel")})
+end
+
+function IUMMagicMissileSpellCheck()
+    return SpellId('Projectile_MAG_MagicMissile_Shot') | SpellId('Projectile_UND_MagicMissile_SocietyOfBrilliance_Amulet') | SpellId('Projectile_MagicMissile') | SpellId('Projectile_MagicMissile_2') | SpellId('Projectile_MagicMissile_3') | SpellId('Projectile_MagicMissile_4') | SpellId('Projectile_MagicMissile_5') | SpellId('Projectile_MagicMissile_6') | SpellId('IUM_CC_MagicMissile')
+end

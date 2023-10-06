@@ -6,10 +6,10 @@
             <children>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Longbows);Proficiency(Flails);Proficiency(Morningstars);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting);ActionResource(SpellSlot,2,1);ActionResource(BardicInspiration,3,0);ActionResource(LayOnHandsCharge,3,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Longbows);Proficiency(Flails);Proficiency(Morningstars);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting);ActionResource(SpellSlot,2,1)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardicInspiration;BardSpellcasting;DiscipleOfLife;IUM_CC_ChosenEilistraee;IUM_CC_ChosenLurue"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardSpellcasting;DiscipleOfLife;IUM_CC_ChosenEilistraee;IUM_CC_ChosenLurue;IUM_CC_Moonfire_Passive"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectSkills(a8a3208a-e5da-494f-8a70-c714d178b6b9,4);SelectSpells(bc442fd4-79a1-4da9-aab0-76f74c3963f2,4,0,,,,AlwaysPrepared);AddSpells(20e3db5e-1fe0-4a8c-a44c-2622cb194ad0,,,,AlwaysPrepared);AddSpells(949e6d66-509a-475b-b41e-33ea9d5a4347);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
@@ -18,11 +18,11 @@
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Longbows);Proficiency(Flails);Proficiency(Morningstars);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting);ActionResource(BardicInspiration,3,0);ActionResource(LayOnHandsCharge,3,0)"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Longbows);Proficiency(Flails);Proficiency(Morningstars);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardicInspiration;BardSpellcasting;DiscipleOfLife;IUM_CC_ChosenEilistraee;IUM_CC_ChosenLurue"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardSpellcasting;DiscipleOfLife;IUM_CC_ChosenEilistraee;IUM_CC_ChosenLurue"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(bc442fd4-79a1-4da9-aab0-76f74c3963f2,4,0,,,,AlwaysPrepared);AddSpells(20e3db5e-1fe0-4a8c-a44c-2622cb194ad0,,,,AlwaysPrepared);AddSpells(949e6d66-509a-475b-b41e-33ea9d5a4347)"/>
@@ -30,7 +30,7 @@
                     <attribute id="UUID" type="guid" value="29b96537-c983-40b1-92d6-a1687ef7b828"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(IUM_CC_SpellsongCharge,2,0);ActionResource(ChannelDivinity,1,0);Tag(SORCERER_METAMAGIC)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
@@ -46,8 +46,8 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2);ActionResource(IUM_CC_SpellsongCharge,1,0)"/>
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2;DivineHealth;FastHands;CombatInspiration;IUM_CC_Spellsong_Heightened;IUM_CC_Spellsong_Quickened;IUM_CC_Spellsong_Subtle;IUM_CC_PiercingChorus;IUM_CC_ForcefulAria"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="BardicInspiration"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2;DivineHealth;FastHands;IUM_CC_Spellsong_Heightened;IUM_CC_Spellsong_Quickened;IUM_CC_Spellsong_Subtle;IUM_CC_PiercingChorus;IUM_CC_ForcefulAria"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(869f6c46-703e-435b-81aa-909a62fbb9f8,,,,AlwaysPrepared);AddSpells(6a9dd148-7ba2-4946-ad07-67b44408b603)"/>
 					<attribute id="TableUUID" type="guid" value="dc650fee-d242-4228-bee2-597c9f365af4"/>
@@ -55,7 +55,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(IUM_CC_SpellsongCharge,1,0);ActionResource(LayOnHandsCharge,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(IUM_CC_SpellsongCharge,1,0)"/>
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -67,10 +67,10 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSlot,2,3);ActionResource(IUM_CC_SpellsongCharge,1,0);ActionResource(BardicInspiration,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSlot,2,3);ActionResource(IUM_CC_SpellsongCharge,1,0)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3;FontOfInspiration;BardicInspiration_d8;WildStrike;CompanionsBond;UncannyDodge;ExtraAttack;DestroyUndead;IUM_CC_Moonsong_Saltando;IUM_CC_Moonsong_Antiphon"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3;FontOfInspiration;WildStrike;CompanionsBond;UncannyDodge;ExtraAttack;DestroyUndead;IUM_CC_Moonsong_Saltando;IUM_CC_Moonsong_Antiphon"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(d6c4bad0-c7e0-4c87-a9c9-6833cc54d092,,,,AlwaysPrepared);AddSpells(10af2ea8-3be0-4647-8253-fb20f52592c2)"/>
@@ -78,7 +78,7 @@
                     <attribute id="UUID" type="guid" value="c9261e62-a097-454b-b174-75632117ee68"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(IUM_CC_SpellsongCharge,1,0);ActionResource(ChannelDivinity,1,0)"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
@@ -103,7 +103,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(IUM_CC_SpellsongCharge,1,0);ActionResource(BardicInspiration,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(IUM_CC_SpellsongCharge,1,0)"/>
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -126,11 +126,11 @@
                     <attribute id="UUID" type="guid" value="b1f162d6-39d0-4750-a703-5d18b32fb2dc"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(IUM_CC_SpellsongCharge,1,0);ActionResource(LayOnHandsCharge,1,0)"/>
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(IUM_CC_SpellsongCharge,1,0)"/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="IUM_CC_Chosen"/>
-                    <attribute id="PassivesAdded" type="LSString" value="BardicInspiration_d10;WildStrike_2;NaturesWard;DivineIntervention"/>
+                    <attribute id="PassivesAdded" type="LSString" value="WildStrike_2;NaturesWard;DivineIntervention"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(bc442fd4-79a1-4da9-aab0-76f74c3963f2,2,0,,,,AlwaysPrepared);AddSpells(6e64048a-2fe0-4474-943c-4feb332e1558,,,,AlwaysPrepared)"/>
